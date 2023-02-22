@@ -166,5 +166,5 @@ ${email}
 ${gitHubRepositoryName}
 `;
 
-
+await fs.writeFile("./output/generated-README.md", template);
 
