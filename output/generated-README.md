@@ -2,6 +2,8 @@
 <div align="center">
 <h1 align="center">README.md file generator for GitHub</h1>
 </div>
+[![https://img.shields.io/github/contributors/apyosi/readme-generator.svg?style=for-the-badge]](https://github.com/apyosi/readme-generator/graphs/contributors)
+[https://img.shields.io/github/contributors/apyosi/readme-generator.svg?style=for-the-badge](https://github.com/apyosi/readme-generator/graphs/contributors)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]

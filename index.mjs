@@ -128,6 +128,8 @@ let template = `
 <div align="center">
 <h1 align="center">${title}</h1>
 </div>
+[![https://img.shields.io/github/contributors/${gitHubUsername}/${gitHubRepositoryName}.svg?style=for-the-badge]](https://github.com/${gitHubUsername}/${gitHubRepositoryName}/graphs/contributors)
+[https://img.shields.io/github/contributors/${gitHubUsername}/${gitHubRepositoryName}.svg?style=for-the-badge](https://github.com/${gitHubUsername}/${gitHubRepositoryName}/graphs/contributors)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
