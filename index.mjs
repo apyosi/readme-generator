@@ -106,7 +106,7 @@ let {
 
 
 function generateLicenseBadge(license) {
-  console.log(license);
+  // console.log(license);
   if (license === "MIT License") {
     return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
   } else if (license === "GNU GPL v3") {
@@ -128,6 +128,10 @@ let template = `
 <div align="center">
 <h1 align="center">${title}</h1>
 </div>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -160,11 +164,24 @@ ${tests}
 ${generateLicenseBadge(license)}
 
 ## Questions
-${gitHubUsername}
-${email}
 
-${gitHubRepositoryName}
+You can reach me for any questions on the email: ${email}<br>
+and on github repo page: [https://github.com/${gitHubUsername}/${gitHubRepositoryName}](https://github.com/${gitHubUsername}/${gitHubRepositoryName})
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/${gitHubUsername}/${gitHubRepositoryName}.svg?style=for-the-badge
+[contributors-url]: https://github.com/${gitHubUsername}/${gitHubRepositoryName}/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/${gitHubUsername}/${gitHubRepositoryName}.svg?style=for-the-badge
+[forks-url]: https://github.com/${gitHubUsername}/${gitHubRepositoryName}/network/members
+[stars-shield]: https://img.shields.io/github/stars/${gitHubUsername}/${gitHubRepositoryName}.svg?style=for-the-badge
+[stars-url]: https://github.com/${gitHubUsername}/${gitHubRepositoryName}/stargazers
+[issues-shield]: https://img.shields.io/github/issues/${gitHubUsername}/${gitHubRepositoryName}.svg?style=for-the-badge
+[issues-url]: https://github.com/${gitHubUsername}/${gitHubRepositoryName}/issues
 `;
+
+console.log("The README.md is generated in the output directory!");
 
 await fs.writeFile("./output/generated-README.md", template);
 
