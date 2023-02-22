@@ -20,31 +20,31 @@
   </ol>
 </details>
 
-## Description
+## 🧾 Description
 Command-line application to generate README.md files from user input
 
-## Installation
+## 🛠️ Installation
 Install node.js and clone the reopsitory
 
-## Usage
+## ▶️ Usage
 Run in cli the following command: ```node index.mjs```
 
 <video src="https://user-images.githubusercontent.com/107482495/220493536-cf465a32-d784-445f-84f0-54ad80e5b0b4.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 
-## Contributing
+## 🧑🏻‍🔧 Contributing
 Contributions are always welcome!
 
-## Tests
+## 🧪 Tests
 To run the test, run the following command: ```npm run test```
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## 🔍 License
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt=""></a>
 
-## Questions
+## ❓ Questions
 
 You can reach me for any questions on the email: email@example.com<br>
-and on github repo page: [https://github.com/apyosi/readme-generator](https://github.com/apyosi/readme-generator)
+and on github the repo page: [https://github.com/apyosi/readme-generator](https://github.com/apyosi/readme-generator)
 
 

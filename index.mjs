@@ -168,25 +168,25 @@ ${generateLicenseBadge(license)}
   </ol>
 </details>
 
-## Description
+## 🧾 Description
 ${description}
 
-## Installation
+## 🛠️ Installation
 ${installation}
 
-## Usage
+## ▶️ Usage
 ${usage}
 
-## Contributing
+## 🧑🏻‍🔧 Contributing
 ${contributing}
 
-## Tests
+## 🧪 Tests
 ${tests}
 
-## License
+## 🔍 License
 ${generateLicenseBadge(license)}
 
-## Questions
+## ❓ Questions
 
 You can reach me for any questions on the email: ${email}<br>
 and on github the repo page: [https://github.com/${gitHubUsername}/${gitHubRepositoryName}](https://github.com/${gitHubUsername}/${gitHubRepositoryName})
