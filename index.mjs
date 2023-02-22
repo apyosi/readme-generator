@@ -168,7 +168,7 @@ ${generateLicenseBadge(license)}
 ## Questions
 
 You can reach me for any questions on the email: ${email}<br>
-and on github repo page: [https://github.com/${gitHubUsername}/${gitHubRepositoryName}](https://github.com/${gitHubUsername}/${gitHubRepositoryName})
+and on github the repo page: [https://github.com/${gitHubUsername}/${gitHubRepositoryName}](https://github.com/${gitHubUsername}/${gitHubRepositoryName})
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
