@@ -40,6 +40,6 @@ To run the test, run the following command: ```npm run test```
 
 ## ❓ Questions
 
-You can reach me for any questions on the email: email@example.com<br>
+You can reach me for any questions on the email: email@gmail.com<br>
 As well on the github repo page: [https://github.com/apyosi/readme-generator](https://github.com/apyosi/readme-generator)
 
