@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">README.md file generator for GitHub</h1>
 </div>
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#description">Description</a></li>
