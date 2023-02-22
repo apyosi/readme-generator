@@ -1,14 +1,13 @@
 
 <div align="center">
 <h1 align="center">README.md file generator for GitHub</h1>
+<a href="https://github.com/apyosi/readme-generator/graphs/contributors"><img src="https://img.shields.io/github/contributors/apyosi/readme-generator.svg?style=for-the-badge" alt=""></a>
+<a href="https://github.com/apyosi/readme-generator/network/members"><img src="https://img.shields.io/github/forks/apyosi/readme-generator.svg?style=for-the-badge" alt=""></a>
+<a href="https://github.com/apyosi/readme-generator/stargazers"><img src="https://img.shields.io/github/stars/apyosi/readme-generator.svg?style=for-the-badge" alt=""></a>
+<a href="https://github.com/apyosi/readme-generator/issues"><img src="https://img.shields.io/github/issues/apyosi/readme-generator.svg?style=for-the-badge" alt=""></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt=""></a>
 </div>
-[![https://img.shields.io/github/contributors/apyosi/readme-generator.svg?style=for-the-badge]](https://github.com/apyosi/readme-generator/graphs/contributors)
-[https://img.shields.io/github/contributors/apyosi/readme-generator.svg?style=for-the-badge](https://github.com/apyosi/readme-generator/graphs/contributors)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#description">Description</a></li>
@@ -37,21 +36,10 @@ Contributions are always welcome!
 To run the test, run the following command: ```npm run test```
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt=""></a>
 
 ## Questions
 
 You can reach me for any questions on the email: email@example.com<br>
-and on github repo page: [https://github.com/apyosi/readme-generator](https://github.com/apyosi/readme-generator)
+and on github the repo page: [https://github.com/apyosi/readme-generator](https://github.com/apyosi/readme-generator)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/apyosi/readme-generator.svg?style=for-the-badge
-[contributors-url]: https://github.com/apyosi/readme-generator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/apyosi/readme-generator.svg?style=for-the-badge
-[forks-url]: https://github.com/apyosi/readme-generator/network/members
-[stars-shield]: https://img.shields.io/github/stars/apyosi/readme-generator.svg?style=for-the-badge
-[stars-url]: https://github.com/apyosi/readme-generator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/apyosi/readme-generator.svg?style=for-the-badge
-[issues-url]: https://github.com/apyosi/readme-generator/issues
