@@ -24,6 +24,7 @@ Install node.js and clone the reopsitory
 ## Usage
 Run in cli the following command: ```node index.mjs```
 
+[![Usage demo](https://github.com/apyosi/readme-generator/blob/main/demo/video.mp4)]
 ## Contributing
 Contributions are always welcome!
 
