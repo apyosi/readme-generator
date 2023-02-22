@@ -35,6 +35,6 @@ To run the test, run the following command: ```npm run test```
 
 ## Questions
 apyosi
-email@example.com
+email@gmail.com
 
 readme-generator
