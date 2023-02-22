@@ -189,7 +189,7 @@ ${generateLicenseBadge(license)}
 ## ❓ Questions
 
 You can reach me for any questions on the email: ${email}<br>
-and on github the repo page: [https://github.com/${gitHubUsername}/${gitHubRepositoryName}](https://github.com/${gitHubUsername}/${gitHubRepositoryName})
+As well on the github repo page: [https://github.com/${gitHubUsername}/${gitHubRepositoryName}](https://github.com/${gitHubUsername}/${gitHubRepositoryName})
 
 `;
 
