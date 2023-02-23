@@ -29,7 +29,7 @@ Install node.js and clone the reopsitory
 <h2 id="usage">▶️ Usage</h2>
 Run in cli the following command: ```node index.mjs```
 
-<video src="https://user-images.githubusercontent.com/107482495/220493536-cf465a32-d784-445f-84f0-54ad80e5b0b4.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/107482495/220790482-3a287049-db85-4877-9636-f2c6d0a5daa7.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 
