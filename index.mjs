@@ -170,27 +170,39 @@ ${generateLicenseBadge(license)}
 </details>
 
 <h2 id="description">🧾 Description</h2>
+
 ${description}
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="installation">🛠️ Installation</h2>
+
 ${installation}
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="usage">▶️ Usage</h2>
+
 ${usage}
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="contributing">🧑🏻‍🔧 Contributing</h2>
+
 ${contributing}
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="tests">🧪 Tests</h2>
+
 ${tests}
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="license">🔍 License</h2>
+
 ${generateLicenseBadge(license)}
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="questions">❓ Questions</h2>

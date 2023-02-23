@@ -22,27 +22,39 @@
 </details>
 
 <h2 id="description">🧾 Description</h2>
+
 Command-line application to generate README.md files from user input
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="installation">🛠️ Installation</h2>
+
 Install node.js and clone the reopsitory
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="usage">▶️ Usage</h2>
+
 Run in cli the following command: ```node index.mjs```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="contributing">🧑🏻‍🔧 Contributing</h2>
+
 Contributions are always welcome!
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="tests">🧪 Tests</h2>
+
 To run the test, run the following command: ```npm run test```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="license">🔍 License</h2>
+
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt=""></a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="questions">❓ Questions</h2>
