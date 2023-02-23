@@ -147,6 +147,7 @@ function generateLicenseBadge(license) {
 
 
 let template = `
+<a id="readme-top"></a>
 <div align="center">
 <h1 align="center">${title}</h1>
 <a href="https://github.com/${gitHubUsername}/${gitHubRepositoryName}/graphs/contributors"><img src="https://img.shields.io/github/contributors/${gitHubUsername}/${gitHubRepositoryName}.svg?style=for-the-badge" alt=""></a>
@@ -170,27 +171,34 @@ ${generateLicenseBadge(license)}
 
 <h2 id="description">🧾 Description</h2>
 ${description}
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="installation">🛠️ Installation</h2>
 ${installation}
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="usage">▶️ Usage</h2>
 ${usage}
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="contributing">🧑🏻‍🔧 Contributing</h2>
 ${contributing}
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="tests">🧪 Tests</h2>
 ${tests}
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="license">🔍 License</h2>
 ${generateLicenseBadge(license)}
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="questions">❓ Questions</h2>
 
 You can reach me for any questions on the email: ${email}<br>
 As well on the github repo page: [https://github.com/${gitHubUsername}/${gitHubRepositoryName}](https://github.com/${gitHubUsername}/${gitHubRepositoryName})
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 `;
 
 console.log("The README.md is generated in the output directory!");
