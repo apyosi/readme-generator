@@ -40,13 +40,6 @@ Run in cli the following command: ```node index.mjs```
 <video src="https://user-images.githubusercontent.com/107482495/220790482-3a287049-db85-4877-9636-f2c6d0a5daa7.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-
-
-https://user-images.githubusercontent.com/107482495/222809667-d5f8fea7-0178-4118-bb28-b6218f7e0275.mp4
-
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="contributing">🧑🏻‍🔧 Contributing</h2>
